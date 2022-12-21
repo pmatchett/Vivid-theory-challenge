@@ -12,5 +12,6 @@
 1. Add the required .env file to the root folder, will be sent via email if requested
 2. Run the following commands in the root folder to install all dependencies "npm install" and "npm run install-frontend"
 3. Build the frontend application using the command "npm run build" in the root folder
-4. Start the server using the command "npm start" in the root folder, this starts the Node.js server which hosts the frontend
+4. Start the server using the command "npm start" in the root folder, this starts the Node.js server which hosts the frontend. Wait until you see the confirmation of connection to the database in the console.
 5. Access the application at http://localhost:3000
+6. To stop the server use "ctrl+c" in the console where you started it
